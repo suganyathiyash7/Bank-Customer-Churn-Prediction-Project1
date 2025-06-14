@@ -6,3 +6,11 @@ Customer churn refers to when a customer stops using a company's products or ser
 This is the main dataset used for analysis.
 It contains customer demographic and financial data along with a column indicating whether the customer has churned.
 Used for performing data cleaning, exploration, and modeling.
+### 2. Bank Customer churn PowerBi.pbix
+A Power BI dashboard file that visualizes insights from the data.
+Contains multiple visuals such as charts, KPIs, and slicers for interactive analysis.
+Useful for business users and stakeholders to understand churn drivers.
+### 3. Bank Customer churn Prediction report Summary.docx
+A Word document summarizing the findings, recommendations, and insights.
+Includes interpretations of the dashboard and suggestions for churn reduction strategies.
+Suitable for presentation or business reporting.
