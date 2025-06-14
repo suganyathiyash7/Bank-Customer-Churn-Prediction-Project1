@@ -39,7 +39,7 @@ This project follows a structured analysis and visualization pipeline tailored f
 
 ## 📊 Data Analysis Summary
 
-Total Records: 10,000 customers 
+* Total Records: 10,000 customers 
 Churned Customers: 2,037 (≈20.37%)
 Non-Churned Customers: 7,963
 Average Credit Score: 650.5
