@@ -40,14 +40,14 @@ This project follows a structured analysis and visualization pipeline tailored f
 ## 📊 Data Analysis Summary
 
 * Total Records: 10,000 customers 
-Churned Customers: 2,037 (≈20.37%)
-Non-Churned Customers: 7,963
-Average Credit Score: 650.5
-Average Age: 38.9 years
-Average Tenure: 5 years
-Average Balance: ₹76,486
-Credit Card Holders: ~70.5%
-Active Members: ~51.5%
+* Churned Customers: 2,037 (≈20.37%)
+* Non-Churned Customers: 7,963
+* Average Credit Score: 650.5
+* Average Age: 38.9 years
+* Average Tenure: 5 years
+* Average Balance: ₹76,486
+* Credit Card Holders: ~70.5%
+* Active Members: ~51.5%
 
 ## Findings from the Dashboard & Analysis:
 
