@@ -16,19 +16,19 @@ Includes interpretations of the dashboard and suggestions for churn reduction st
 Suitable for presentation or business reporting.
 ## 🪜 Project Workflow 
 This project follows a structured analysis and visualization pipeline tailored for Power BI. Below are the key steps involved:
-### 1. 📥 Data Loading
+### 1.  Data Loading
 * Imported the CSV file Bank Customer Churn Prediction.csv into Power BI.
 * Verified column data types and initial data structure.
-### 2. 🧹 Data Cleaning & Preprocessing
+### 2.  Data Cleaning & Preprocessing
 * Handled missing values (e.g., Gender filled using mode).
 * Removed unnecessary fields like RowNumber, Surname, and CustomerId.
 * Created new calculated fields using DAX (e.g., Churn Rate %).
 * Verified consistency and corrected anomalies in columns like Balance and Tenure.
-### 3. 📊 Exploratory Data Analysis (EDA)
+### 3.  Exploratory Data Analysis (EDA)
 * Performed descriptive statistics to understand feature distributions.
 * Identified high-churn segments by filtering on Geography, Gender, and IsActiveMember.
 * Correlation and comparative analysis helped identify churn-prone customer profiles.
-### 4. 📈 Dashboard Creation in Power BI
+### 4.  Dashboard Creation in Power BI
 * Created interactive visuals including:
       Churn vs Non-Churn comparison
       Gender and Geography-wise churn breakdown
@@ -37,7 +37,7 @@ This project follows a structured analysis and visualization pipeline tailored f
 * Added slicers for dynamic filtering by Geography, Gender, etc.
 * Applied filters and sorting to highlight key customer segments.
 
-## 📊 Data Analysis Summary
+##  Data Analysis Summary
 
 * Total Records: 10,000 customers 
 * Churned Customers: 2,037 (≈20.37%)
@@ -56,7 +56,7 @@ This project follows a structured analysis and visualization pipeline tailored f
 * Age and salary alone do not directly drive churn but correlate when combined with account activity.
 * Country-wise churn shows significant variation — for example, higher churn in Germany compared to France or Spain.
 
-## 📋 Column Descriptions (Spreadsheet)
+##  Column Descriptions (Spreadsheet)
 | Column Name        | Description                                                                 |
 |--------------------|-----------------------------------------------------------------------------|
 | customer_id        | Unique identifier for each customer                                         |
