@@ -38,23 +38,23 @@ This project follows a structured analysis and visualization pipeline tailored f
 * Applied filters and sorting to highlight key customer segments.
 
 ## 📊 Data Analysis Summary
+
 Total Records: 10,000 customers
-
 Churned Customers: 2,037 (≈20.37%)
-
 Non-Churned Customers: 7,963
-
 Average Credit Score: 650.5
-
 Average Age: 38.9 years
-
 Average Tenure: 5 years
-
 Average Balance: ₹76,486
-
 Credit Card Holders: ~70.5%
-
 Active Members: ~51.5%
+
+## Findings from the Dashboard & Analysis:
+
+Customers with lower tenure and zero balance are more likely to churn.
+Churn rate is higher among inactive members and non-credit-card holders.
+Age and salary alone do not directly drive churn but correlate when combined with account activity.
+Country-wise churn shows significant variation — for example, higher churn in Germany compared to France or Spain.
 ### 🧾 Insight Generation & Summary Reporting
 Captured major findings in the report (Bank Customer churn Prediction report Summary.docx)
 Provided actionable recommendations such as:
