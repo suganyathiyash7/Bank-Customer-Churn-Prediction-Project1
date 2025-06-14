@@ -39,7 +39,7 @@ This project follows a structured analysis and visualization pipeline tailored f
 
 ## 📊 Data Analysis Summary
 
-Total Records: 10,000 customers \n
+Total Records: 10,000 customers 
 Churned Customers: 2,037 (≈20.37%)
 Non-Churned Customers: 7,963
 Average Credit Score: 650.5
@@ -55,6 +55,14 @@ Customers with lower tenure and zero balance are more likely to churn.
 Churn rate is higher among inactive members and non-credit-card holders.
 Age and salary alone do not directly drive churn but correlate when combined with account activity.
 Country-wise churn shows significant variation — for example, higher churn in Germany compared to France or Spain.
+
+## 📋 Column Descriptions (Spreadsheet)
+Column Name	Description
+customer_id	Unique identifier for each customer
+credit_score	Credit score of the customer
+country	Country of the customer (France, Germany, Spain)
+gender	Gender of the customer (Male/Female)
+age	Age of the customer
 ### 🧾 Insight Generation & Summary Reporting
 Captured major findings in the report (Bank Customer churn Prediction report Summary.docx)
 Provided actionable recommendations such as:
