@@ -14,3 +14,13 @@ Useful for business users and stakeholders to understand churn drivers.
 A Word document summarizing the findings, recommendations, and insights.
 Includes interpretations of the dashboard and suggestions for churn reduction strategies.
 Suitable for presentation or business reporting.
+## 🪜 Project Workflow 
+This project follows a structured analysis and visualization pipeline tailored for Power BI. Below are the key steps involved:
+### 1. 📥 Data Loading
+* Imported the CSV file Bank Customer Churn Prediction.csv into Power BI.
+* Verified column data types and initial data structure.
+### 2. 🧹 Data Cleaning & Preprocessing
+* Handled missing values (e.g., Gender filled using mode).
+* Removed unnecessary fields like RowNumber, Surname, and CustomerId.
+* Created new calculated fields using DAX (e.g., Churn Rate %).
+* Verified consistency and corrected anomalies in columns like Balance and Tenure.
