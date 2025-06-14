@@ -28,3 +28,37 @@ This project follows a structured analysis and visualization pipeline tailored f
 * Performed descriptive statistics to understand feature distributions.
 * Identified high-churn segments by filtering on Geography, Gender, and IsActiveMember.
 * Correlation and comparative analysis helped identify churn-prone customer profiles.
+### 4. 📈 Dashboard Creation in Power BI
+* Created interactive visuals including:
+      Churn vs Non-Churn comparison
+      Gender and Geography-wise churn breakdown
+      Age and Tenure distributions
+      KPI cards showing total customers, churn count, and churn rate
+* Added slicers for dynamic filtering by Geography, Gender, etc.
+* Applied filters and sorting to highlight key customer segments.
+
+## 📊 Data Analysis Summary
+Total Records: 10,000 customers
+
+Churned Customers: 2,037 (≈20.37%)
+
+Non-Churned Customers: 7,963
+
+Average Credit Score: 650.5
+
+Average Age: 38.9 years
+
+Average Tenure: 5 years
+
+Average Balance: ₹76,486
+
+Credit Card Holders: ~70.5%
+
+Active Members: ~51.5%
+### 🧾 Insight Generation & Summary Reporting
+Captured major findings in the report (Bank Customer churn Prediction report Summary.docx)
+Provided actionable recommendations such as:
+
+Target loyalty programs at high-risk groups (e.g., inactive members, high-tenure customers in Germany).
+Focus retention strategies on female customers and older demographics.
+
