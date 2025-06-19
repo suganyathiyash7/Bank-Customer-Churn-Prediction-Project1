@@ -21,9 +21,7 @@ This project follows a structured analysis and visualization pipeline tailored f
 * Verified column data types and initial data structure.
 ### 2.  Data Cleaning & Preprocessing
 * Handled missing values (e.g., Gender filled using mode).
-* Removed unnecessary fields like RowNumber, Surname, and CustomerId.
-* Created new calculated fields using DAX (e.g., Churn Rate %).
-* Verified consistency and corrected anomalies in columns like Balance and Tenure.
+
 ### 3.  Exploratory Data Analysis (EDA)
 * Performed descriptive statistics to understand feature distributions.
 * Identified high-churn segments by filtering on Geography, Gender, and IsActiveMember.
